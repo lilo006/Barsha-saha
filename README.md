@@ -1,6 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=38BDF8&lines=Hi+%F0%9F%91%8B,+I%27m+Barsha+Saha;Ai+%2B+ML+enthusiasts;Web+Developer;Hackathon+participant" alt="Typing effect showing introduction" />
-</h1>
+<div align="center">
+
+![Typing effect showing introduction](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=600&height=80&duration=3000&pause=1000&color=38BDF8&lines=Hi+%F0%9F%91%8B,+I%27m+Barsha+Saha;Ai+%2B+ML+enthusiasts;Web+Developer;Hackathon+participant)
+
+</div>
 
 <p align="center">
   <a href="[LINK_TO_YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
