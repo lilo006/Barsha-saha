@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing effect showing introduction](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=600&height=80&duration=6000&pause=1000&color=38BDF8&lines=Hi+%F0%9F%91%8B,+I%27m+Barsha+Saha;AI+%2B+ML+ENTHUSIAST;WEB+DEVELOPER🌐;HACKATHON+PARTICIPANT+🏆!)
+![Typing effect showing introduction](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&center=true&vCenter=true&width=600&height=80&duration=4000&pause=600&color=38BDF8&lines=Hi+%F0%9F%91%8B,+I%27m+Barsha+Saha;AI+%2B+ML+ENTHUSIAST;WEB+DEVELOPER+🌐;HACKATHON+PARTICIPANT+🏆!)
 
 </div>
 
